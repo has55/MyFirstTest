@@ -1,0 +1,4 @@
+1.Fields should have tool tips saying what values are acceptable and minimum requirements of that field
+2.Telephone phone if we give more numbers it is overlapping email field
+3.telephone number field is accepting characters
+4.Field entries should be validated then and there itself ,right now we are validating after submitting create new button.
